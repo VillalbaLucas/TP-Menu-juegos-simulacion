@@ -1,0 +1,15 @@
+void MenuPrincipal();
+void MenuAlgoritmosNumericos();
+void Cerrar();
+void gotoxy(int x,int y);
+void Linea();
+void Logo2();
+void Logo();
+void DefNumF();
+void MenuDef();
+void DefRaiz10();
+void DefFuncion();
+void rangoxy();
+void menuJuegos();
+void menuSimulacion();
+void simulacionDef();
